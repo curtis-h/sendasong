@@ -1,0 +1,11 @@
+{
+  "name": "twilhack-2015",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "express": "~4.10.8",
+    "body-parser": "~1.12.3",
+    "twilio": "~2.0.0",
+    "request": "~2.55.0"
+  }
+}
